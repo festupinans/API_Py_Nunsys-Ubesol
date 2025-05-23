@@ -1,0 +1,902 @@
+[
+  {
+    "MATERIAL": "23515",
+    "EAN": "8480000235152",
+    "CANTIDAD": 111225,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11586",
+    "EAN": "8402001027208",
+    "CANTIDAD": 47395,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11959",
+    "EAN": "8402001015656",
+    "CANTIDAD": 89862,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11986",
+    "EAN": "8402001015663",
+    "CANTIDAD": 97388,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46700",
+    "EAN": "8480000467003",
+    "CANTIDAD": 31,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71055",
+    "EAN": "8480000710550",
+    "CANTIDAD": 78691,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46569",
+    "EAN": "8480000465696",
+    "CANTIDAD": 47812,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44320",
+    "EAN": "8480000443205",
+    "CANTIDAD": 30496,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71071",
+    "EAN": "8480000710710",
+    "CANTIDAD": 122224,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44127",
+    "EAN": "8402001026157",
+    "CANTIDAD": 41033,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71450",
+    "EAN": "8480000714503",
+    "CANTIDAD": 17408,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79433",
+    "EAN": "8402001026003",
+    "CANTIDAD": 64800,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44284",
+    "EAN": "8480000232441",
+    "CANTIDAD": 35000,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71452",
+    "EAN": "8480000714527",
+    "CANTIDAD": 51276,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35356",
+    "EAN": "8402001007965",
+    "CANTIDAD": 303582,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46986",
+    "EAN": "8480000469861",
+    "CANTIDAD": 30459,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46582",
+    "EAN": "8480000465825",
+    "CANTIDAD": 143814,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60555",
+    "EAN": "8402001018954",
+    "CANTIDAD": 138388,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52897",
+    "EAN": "8402001018060",
+    "CANTIDAD": 60564,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44313",
+    "EAN": "8480000443137",
+    "CANTIDAD": 50860,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46568",
+    "EAN": "8480000465689",
+    "CANTIDAD": 48055,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52932",
+    "EAN": "8402001013690",
+    "CANTIDAD": 39066,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44341",
+    "EAN": "8480000443410",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60561",
+    "EAN": "8402001019036",
+    "CANTIDAD": 73747,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44356",
+    "EAN": "8480000443564",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44273",
+    "EAN": "8480000442734",
+    "CANTIDAD": 38,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52966",
+    "EAN": "8402001018077",
+    "CANTIDAD": 46718,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71527",
+    "EAN": "8480000715272",
+    "CANTIDAD": 32531,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79069",
+    "EAN": "8402001026126",
+    "CANTIDAD": 91076,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46417",
+    "EAN": "8480000464170",
+    "CANTIDAD": 34332,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44326",
+    "EAN": "8480000443267",
+    "CANTIDAD": 38016,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46696",
+    "EAN": "8402001010071",
+    "CANTIDAD": 37299,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44317",
+    "EAN": "8480000443175",
+    "CANTIDAD": 47068,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44283",
+    "EAN": "8480000232434",
+    "CANTIDAD": 31366,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "43088",
+    "EAN": "8480000430885",
+    "CANTIDAD": 89744,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44908",
+    "EAN": "8480000449085",
+    "CANTIDAD": 80,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79525",
+    "EAN": "8402001026133",
+    "CANTIDAD": 81190,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "23513",
+    "EAN": "8480000235138",
+    "CANTIDAD": 88078,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11984",
+    "EAN": "8402001025761",
+    "CANTIDAD": 108359,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35304",
+    "EAN": "8402001006241",
+    "CANTIDAD": 57319,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "73989",
+    "EAN": "8480000739896",
+    "CANTIDAD": 23,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46416",
+    "EAN": "8480000464163",
+    "CANTIDAD": 177,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44363",
+    "EAN": "8480000443632",
+    "CANTIDAD": 37852,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71054",
+    "EAN": "8480000710543",
+    "CANTIDAD": 24613,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "86077",
+    "EAN": "8480000860774",
+    "CANTIDAD": 30707,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35655",
+    "EAN": "8402001006074",
+    "CANTIDAD": 139456,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "43482",
+    "EAN": "8480000434821",
+    "CANTIDAD": 37051,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "23532",
+    "EAN": "8402001019210",
+    "CANTIDAD": 10,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46415",
+    "EAN": "8480000464156",
+    "CANTIDAD": 39587,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "8896",
+    "EAN": "8402001020810",
+    "CANTIDAD": 37104,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44281",
+    "EAN": "8480000232410",
+    "CANTIDAD": 30704,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46978",
+    "EAN": "8480000469786",
+    "CANTIDAD": 28905,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46424",
+    "EAN": "8480000464248",
+    "CANTIDAD": 205,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "13473",
+    "EAN": "8402001005909",
+    "CANTIDAD": 5,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44316",
+    "EAN": "8480000443168",
+    "CANTIDAD": 46414,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79083",
+    "EAN": "8480000790835",
+    "CANTIDAD": 75873,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46697",
+    "EAN": "8480000466976",
+    "CANTIDAD": 3,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "22380",
+    "EAN": "8480000223807",
+    "CANTIDAD": 49,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "67801",
+    "EAN": "8480000678010",
+    "CANTIDAD": 27120,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11653",
+    "EAN": "8402001026096",
+    "CANTIDAD": 30008,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "47476",
+    "EAN": "8402001025419",
+    "CANTIDAD": 2901,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44911",
+    "EAN": "8480000449115",
+    "CANTIDAD": 35,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44218",
+    "EAN": "8480000442185",
+    "CANTIDAD": 30381,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52738",
+    "EAN": "8402001013539",
+    "CANTIDAD": 44497,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79427",
+    "EAN": "8402001026027",
+    "CANTIDAD": 392527,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "86076",
+    "EAN": "8480000860767",
+    "CANTIDAD": 30435,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "45297",
+    "EAN": "8480000452979",
+    "CANTIDAD": 51785,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60554",
+    "EAN": "8402001018961",
+    "CANTIDAD": 135733,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "23534",
+    "EAN": "8402001019234",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44915",
+    "EAN": "8480000449153",
+    "CANTIDAD": 34909,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "73988",
+    "EAN": "8402001026072",
+    "CANTIDAD": 40708,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "47828",
+    "EAN": "8402001026065",
+    "CANTIDAD": 27457,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35420",
+    "EAN": "8402001006050",
+    "CANTIDAD": 45209,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "9970",
+    "EAN": "8402001022081",
+    "CANTIDAD": 30855,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "22556",
+    "EAN": "8480000225566",
+    "CANTIDAD": 2,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "45204",
+    "EAN": "8402001027338",
+    "CANTIDAD": 44312,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46699",
+    "EAN": "8480000466990",
+    "CANTIDAD": 137534,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "43223",
+    "EAN": "8402001025402",
+    "CANTIDAD": 46507,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "47050",
+    "EAN": "8480000470508",
+    "CANTIDAD": 5,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46999",
+    "EAN": "8480000469991",
+    "CANTIDAD": 62685,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44338",
+    "EAN": "8480000443380",
+    "CANTIDAD": 41017,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71570",
+    "EAN": "8480000715708",
+    "CANTIDAD": 20,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "86306",
+    "EAN": "8402001013980",
+    "CANTIDAD": 32276,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "23184",
+    "EAN": "8402001027307",
+    "CANTIDAD": 168610,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11985",
+    "EAN": "8402001025754",
+    "CANTIDAD": 93712,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46774",
+    "EAN": "8480000462749",
+    "CANTIDAD": 3678,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46441",
+    "EAN": "8480000464415",
+    "CANTIDAD": 51,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44913",
+    "EAN": "8480000449139",
+    "CANTIDAD": 32961,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44277",
+    "EAN": "8480000442772",
+    "CANTIDAD": 43527,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46794",
+    "EAN": "8480000467942",
+    "CANTIDAD": 64095,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79603",
+    "EAN": "8402001026010",
+    "CANTIDAD": 168073,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60557",
+    "EAN": "8402001018930",
+    "CANTIDAD": 70784,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71044",
+    "EAN": "8480000710444",
+    "CANTIDAD": 195308,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46567",
+    "EAN": "8480000465672",
+    "CANTIDAD": 121456,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44296",
+    "EAN": "8480000442963",
+    "CANTIDAD": 30910,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46578",
+    "EAN": "8402001008696",
+    "CANTIDAD": 93867,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79428",
+    "EAN": "8402001026034",
+    "CANTIDAD": 100815,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44335",
+    "EAN": "8480000443359",
+    "CANTIDAD": 32391,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79706",
+    "EAN": "8480000797063",
+    "CANTIDAD": 65,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44286",
+    "EAN": "8402001005671",
+    "CANTIDAD": 29700,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44290",
+    "EAN": "8480000442901",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44914",
+    "EAN": "8402001027321",
+    "CANTIDAD": 35083,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46434",
+    "EAN": "8480000464347",
+    "CANTIDAD": 36670,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "22931",
+    "EAN": "8402001022784",
+    "CANTIDAD": 1013320,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44337",
+    "EAN": "8480000443373",
+    "CANTIDAD": 42806,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44321",
+    "EAN": "8480000443212",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "76470",
+    "EAN": "8480000764706",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46439",
+    "EAN": "8480000464392",
+    "CANTIDAD": 74,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "23195",
+    "EAN": "8402001026973",
+    "CANTIDAD": 43952,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "13294",
+    "EAN": "8402001032424",
+    "CANTIDAD": 75112,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "11585",
+    "EAN": "8402001027185",
+    "CANTIDAD": 57207,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35419",
+    "EAN": "8402001006029",
+    "CANTIDAD": 58644,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52933",
+    "EAN": "8402001013614",
+    "CANTIDAD": 32412,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44280",
+    "EAN": "8480000442802",
+    "CANTIDAD": 37864,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44216",
+    "EAN": "8480000442161",
+    "CANTIDAD": 30853,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52898",
+    "EAN": "8402001018084",
+    "CANTIDAD": 39196,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44910",
+    "EAN": "8402001010057",
+    "CANTIDAD": 74241,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44365",
+    "EAN": "8480000443656",
+    "CANTIDAD": 37055,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44282",
+    "EAN": "8480000232427",
+    "CANTIDAD": 2,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44275",
+    "EAN": "8480000442758",
+    "CANTIDAD": 36186,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "78975",
+    "EAN": "8402001026119",
+    "CANTIDAD": 43693,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46444",
+    "EAN": "8480000464446",
+    "CANTIDAD": 486,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "47293",
+    "EAN": "8480000472939",
+    "CANTIDAD": 281286,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "76487",
+    "EAN": "8402001026089",
+    "CANTIDAD": 108132,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "67802",
+    "EAN": "8480000678027",
+    "CANTIDAD": 32571,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "35362",
+    "EAN": "8402001022845",
+    "CANTIDAD": 56476,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44342",
+    "EAN": "8480000443427",
+    "CANTIDAD": 25433,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44276",
+    "EAN": "8480000442765",
+    "CANTIDAD": 51502,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "45148",
+    "EAN": "8480000451484",
+    "CANTIDAD": 49,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71533",
+    "EAN": "8480000715333",
+    "CANTIDAD": 145601,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60560",
+    "EAN": "8402001019029",
+    "CANTIDAD": 126906,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "12852",
+    "EAN": "8402001024764",
+    "CANTIDAD": 1994,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71403",
+    "EAN": "8480000714039",
+    "CANTIDAD": 121418,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44355",
+    "EAN": "8480000443557",
+    "CANTIDAD": 2,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44289",
+    "EAN": "8402001005893",
+    "CANTIDAD": 40635,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44912",
+    "EAN": "8480000449122",
+    "CANTIDAD": 39394,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "52931",
+    "EAN": "8402001013607",
+    "CANTIDAD": 30594,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "79712",
+    "EAN": "8402001026058",
+    "CANTIDAD": 92418,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46418",
+    "EAN": "8480000464187",
+    "CANTIDAD": 79,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "67800",
+    "EAN": "8480000678003",
+    "CANTIDAD": 28177,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46443",
+    "EAN": "8480000464439",
+    "CANTIDAD": 42844,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "43935",
+    "EAN": "8402001025426",
+    "CANTIDAD": 33390,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "47291",
+    "EAN": "8480000472915",
+    "CANTIDAD": 513226,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60559",
+    "EAN": "8402001018916",
+    "CANTIDAD": 1,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "71407",
+    "EAN": "8480000714077",
+    "CANTIDAD": 38376,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60558",
+    "EAN": "8402001018923",
+    "CANTIDAD": 52840,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "60670",
+    "EAN": "8402001014154",
+    "CANTIDAD": 67315,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "46420",
+    "EAN": "8480000464200",
+    "CANTIDAD": 39019,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44907",
+    "EAN": "8480000449078",
+    "CANTIDAD": 55293,
+    "FECHA_STOCK": "2025-04-24"
+  },
+  {
+    "MATERIAL": "44330",
+    "EAN": "8480000443304",
+    "CANTIDAD": 25112,
+    "FECHA_STOCK": "2025-04-24"
+  }
+]

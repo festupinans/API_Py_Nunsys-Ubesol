@@ -1,0 +1,62 @@
+[
+  {
+    "EAN": "8480000710444",
+    "DESCRIPCION": "Bayeta suave (lote 9 ud)",
+    "CATEGORIA": "BAYETAS",
+    "CUOTA": 0.471
+  },
+  {
+    "EAN": "8480000710550",
+    "DESCRIPCION": "Posavajillas",
+    "CATEGORIA": "BAYETAS",
+    "CUOTA": 0.471
+  },
+  {
+    "EAN": "8402001022784",
+    "DESCRIPCION": "Toallitas Cara y Manos",
+    "CATEGORIA": "TOALLITAS INFANTILES",
+    "CUOTA": 0.486
+  },
+  {
+    "EAN": "8480000796035",
+    "DESCRIPCION": "Toallitas Frescas y Perfumadas",
+    "CATEGORIA": "TOALLITAS INFANTILES",
+    "CUOTA": 0.486
+  },
+  {
+    "EAN": "8480000714527",
+    "DESCRIPCION": "Fregona Hilo Microfibra (individual)",
+    "CATEGORIA": "FREGONAS",
+    "CUOTA": 0.544
+  },
+  {
+    "EAN": "8480000464200",
+    "DESCRIPCION": "Desodorante Spray Invisible",
+    "CATEGORIA": "DESODORANTES SPRAY",
+    "CUOTA": 0.356
+  },
+  {
+    "EAN": "8402001015663",
+    "DESCRIPCION": "Desodorante Roll On Invisible",
+    "CATEGORIA": "DESODORANTES ROLL ON",
+    "CUOTA": 0.356
+  },
+  {
+    "EAN": "848000465689",
+    "DESCRIPCION": "Champú Repair & Nutrition",
+    "CATEGORIA": "CHAMPÚ",
+    "CUOTA": 0.318
+  },
+  {
+    "EAN": "8480000790835",
+    "DESCRIPCION": "Toallitas Anti transferencia",
+    "CATEGORIA": "TOALLITAS HOGAR",
+    "CUOTA": 0.595
+  },
+  {
+    "EAN": "8480000715333",
+    "DESCRIPCION": "Gamuzas Atrapapolvo",
+    "CATEGORIA": "GAMUZAS",
+    "CUOTA": 0.783
+  }
+]
